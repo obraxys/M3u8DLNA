@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U8 → TV</string>
+
+    <string name="notif_channel_name">DLNA session</string>
+    <string name="notif_channel_desc">Shown while the app discovers renderers and hands the stream to them</string>
+</resources>

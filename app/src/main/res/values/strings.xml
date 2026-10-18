@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U8 → TV</string>
+
+    <string name="notif_channel_name">DLNA-сессия</string>
+    <string name="notif_channel_desc">Показывает, когда приложение ищет телевизоры и передаёт им поток</string>
+</resources>
